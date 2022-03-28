@@ -24,7 +24,7 @@ for faster way
 
 live demo:
 
-[herolo-weather-home-task.vercel.app](https://beni-saadon-20-3-22-15-11.vercel.app/)
+[herolo-weather-home-task.vercel.app](https://herolo-weather-task.vercel.app/)
 
 ## Run
 
