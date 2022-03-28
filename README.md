@@ -1,6 +1,13 @@
-# weather-app
+# weather react app
 
-Herolo Home Assignment - Weather forecasting application
+Herolo Home Assignment - Weather.
+forecasting application
+
+- Search for weather forecast for any city you choose
+- Option to add or remove a selected city from the favorites
+- View current weather and next 5 days
+
+- Convert Fahrenheit to Celsius
 
 # Usage
 
