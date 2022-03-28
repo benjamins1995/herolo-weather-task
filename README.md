@@ -17,9 +17,7 @@ for faster way
 
 live demo:
 
-[beni-saadon-20-3-22-15-11-task.herokuapp.com](https://beni-saadon-20-3-22-15-11-task.herokuapp.com/)
-
-[beni-saadon-20-3-22-15-11.vercel.app](https://beni-saadon-20-3-22-15-11.vercel.app/)
+[herolo-weather-home-task.vercel.app](https://beni-saadon-20-3-22-15-11.vercel.app/)
 
 ## Run
 
