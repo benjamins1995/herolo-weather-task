@@ -1,7 +1,6 @@
 # weather react app
 
-Herolo Home Assignment - Weather.
-forecasting application
+Herolo Home Assignment - Weather forecasting application
 
 - Search for weather forecast for any city you choose
 - Option to add or remove a selected city from the favorites
